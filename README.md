@@ -55,7 +55,7 @@ public class User {
 ```
 
 ##### To See Model
-:white_check_mark: [UserManagement-Validation-Model](https://github.com/Anushri-glitch/UserManagement-Validation/tree/master/src/main/java/com/Shrishti/UserManageValidation/Model)
+:white_check_mark: [UserManagement-Validation-Model](https://github.com/harshsikarwar20/UserManagementValidation/tree/master/src/main/java/com/example/UserManagementValidation/Model)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :green_square: 2. Service - This Layer is used to write the logic of our CRUD operaions in RestroService.java
@@ -117,7 +117,7 @@ public class UserService {
 ```
 
 #### To See Service
-:white_check_mark: [User-Service](https://github.com/Anushri-glitch/UserManagement-Validation/blob/master/src/main/java/com/Shrishti/UserManageValidation/Service/UserService.java)
+:white_check_mark: [User-Service](https://github.com/harshsikarwar20/UserManagementValidation/tree/master/src/main/java/com/example/UserManagementValidation/Service)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :green_square: 3. Controller - This Controller is used to like UI between Model and Service and also for CRUD Mappings in RestroController.java
@@ -168,7 +168,7 @@ public class UserController {
 ```
 
 #### To See Controller
-:white_check_mark: [User-Controller](https://github.com/Anushri-glitch/UserManagement-Validation/tree/master/src/main/java/com/Shrishti/UserManageValidation/Controller)
+:white_check_mark: [User-Controller](https://github.com/harshsikarwar20/UserManagementValidation/tree/master/src/main/java/com/example/UserManagementValidation/Controller)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :three: DataStructures Used in Project
     1. ArrayList
